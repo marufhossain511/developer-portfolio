@@ -1,5 +1,6 @@
 * {
     margin: 0;
+    
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -52,6 +53,7 @@ nav li {
     display: flex;
     align-items: center;
     margin: 0 200px;
+    
 }
 
 .banner-subtitle {
@@ -215,4 +217,9 @@ input{
 
 .contact a{
     text-decoration: none;
+}
+.mine{
+    height: 676px;
+    width:584 ;
+   
 }
